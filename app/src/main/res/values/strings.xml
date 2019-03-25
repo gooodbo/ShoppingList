@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="shoppingLIst">Список покупок</string>
+    <string name="empty"> </string>
+    <string name="enterText">Введите текст...</string>
+    <string name="addField">Добавить поле</string>
+</resources>
